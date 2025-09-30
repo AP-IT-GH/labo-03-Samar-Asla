@@ -1,0 +1,12 @@
+*{
+    border: 1px solid black;
+}
+header,footer{
+    width:100px;
+}
+section{
+    width: 62px;
+}
+aside{width: 38;}
+nav{width: 50px;}
+article{border: dotted red;}
