@@ -1,0 +1,19 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 20px;
+    padding-top: 10px;
+    background-color: #c8c8c8;
+    color: white;
+}
+h1{text-transform: uppercase;
+    background-color: rgb(79, 162, 162);
+    padding:20px;
+}
+h2{ text-transform: uppercase;
+    background-color:rgb(235, 97, 235) ;
+    padding: 20px;
+}
+p{
+    background-color: white;
+    color:black ;
+}
