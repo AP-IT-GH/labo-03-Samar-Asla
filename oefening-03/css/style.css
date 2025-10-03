@@ -2,11 +2,11 @@
     border: 1px solid black;
 }
 header,footer{
-    width:100px;
+    width:100%;
 }
 section{
-    width: 62px;
+    width: 62%;
 }
-aside{width: 38;}
-nav{width: 50px;}
-article{border: dotted red;}
+aside{width: 38%;}
+nav{width: 50%;}
+article{border:dotted 1px red;}
