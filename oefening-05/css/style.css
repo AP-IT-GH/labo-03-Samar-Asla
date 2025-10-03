@@ -16,4 +16,5 @@ h2{ text-transform: uppercase;
 p{
     background-color: white;
     color:black ;
+    padding: 20px;
 }
